@@ -1,12 +1,22 @@
 # SVG Payment Icons
 
-<img src="preview.png" alt="drawing" width="300" />
+<img src="preview.png" alt="drawing" width="450" />
 
-- Credit card (Mastercard, VISA)
+- Credit Card (Mastercard, VISA)
 - PayPal
 - Google Pay
 - Apple Pay
 - Amazon Pay
 - Klarna
 - SEPA Direct Debit
-- paydirekt
+- Alipay
+- iDEAL
+- Bancontact
+- MobilePay
+- PayU
+- PostFinance
+- giropay
+- MB WAY
+- Przelewy24
+- Solana
+- Cardano
