@@ -1,6 +1,10 @@
-# SVG Payment Icons
+# SVG eCommerce Brand Icons
 
-<img src="preview.png" alt="drawing" width="450" />
+Payment and Carrier Brand Icons / Logos in unified sizes / aspect ratios with transparent background in vector / SVG format
+
+## Payment Methods
+
+<img src="paymentMethodsPreview.png" alt="drawing" width="450" />
 
 - Credit Card (Mastercard, VISA)
 - PayPal
@@ -20,3 +24,24 @@
 - Przelewy24
 - Solana
 - Cardano
+
+## Carriers
+
+<img src="carriersPreview.png" alt="drawing" width="450" />
+
+- DHL
+- Hermes
+- UPS
+- DPD
+- GLS
+- FedEx
+- Deutsche Post
+- Post (Austria)
+- Correos
+- Die Post (Switzerland)
+- USPS
+- PostNL
+- bpost
+- La Poste
+- Colissimo
+- CTT
