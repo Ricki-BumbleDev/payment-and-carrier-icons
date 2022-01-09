@@ -14,6 +14,9 @@ Payment and Carrier Brand Icons / Logos in unified sizes / aspect ratios with tr
 - Klarna
 - SEPA Direct Debit
 - Alipay
+- WeChat Pay
+- paysafecard
+- Skrill
 - iDEAL
 - Bancontact
 - MobilePay
@@ -22,6 +25,9 @@ Payment and Carrier Brand Icons / Logos in unified sizes / aspect ratios with tr
 - giropay
 - MB WAY
 - Przelewy24
+- Afterpay
+- Ratepay
+- AfterPay
 - Solana
 - Cardano
 
