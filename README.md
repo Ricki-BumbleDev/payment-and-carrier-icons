@@ -35,13 +35,24 @@ Payment and Carrier Brand Icons / Logos in unified sizes / aspect ratios with tr
 - DPD
 - GLS
 - FedEx
+- USPS
 - Deutsche Post
 - Post (Austria)
-- Correos
-- Die Post (Switzerland)
-- USPS
+- Die Post / La Poste / La Posta (Switzerland)
 - PostNL
 - bpost
 - La Poste
 - Colissimo
+- Poste Italiane
+- Correos
 - CTT
+- postnord
+- posti (Finland)
+- omniva
+- Česká Pošta
+- Zásilkovna
+- Pošta Slovenije
+- Slovenská Pošta
+- Еконт (Bulgaria)
+- FAN Courier (Romania)
+- Magyar Posta (Hungary)
