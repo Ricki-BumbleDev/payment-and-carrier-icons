@@ -1,6 +1,6 @@
-# SVG eCommerce Brand Icons
+# Payment and Carrier SVG Icons
 
-Payment and Carrier Brand Icons / Logos in unified sizes / aspect ratios with transparent background in vector / SVG format
+Payment and Carrier Brand Icons / Logos for eCommerce in unified sizes / aspect ratios with transparent background in vector / SVG format
 
 ## Payment Methods
 
