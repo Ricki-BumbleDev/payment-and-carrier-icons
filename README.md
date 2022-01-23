@@ -33,34 +33,36 @@ Payment and Carrier Brand Icons / Logos for eCommerce in unified sizes / aspect 
 
 ## Carriers
 
-| Name                   | Key              | Preview                                                                                                                    |
-| ---------------------- | ---------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| DHL                    | `dhl`            | <img src="carriers/dhl.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />            |
-| Hermes                 | `hermes`         | <img src="carriers/hermes.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />         |
-| UPS                    | `ups`            | <img src="carriers/ups.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />            |
-| DPD                    | `dpd`            | <img src="carriers/dpd.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />            |
-| GLS                    | `gls`            | <img src="carriers/gls.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />            |
-| FedEx                  | `fedEx`          | <img src="carriers/fedEx.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />          |
-| USPS                   | `usps`           | <img src="carriers/usps.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />           |
-| Deutsche Post          | `deutschePost`   | <img src="carriers/deutschePost.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />   |
-| Post (Austria)         | `post`           | <img src="carriers/post.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />           |
-| Die Post (Switzerland) | `diePost`        | <img src="carriers/diePost.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />        |
-| La Poste (Switzerland) | `laPoste2`       | <img src="carriers/laPoste2.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />       |
-| La Posta (Switzerland) | `laPosta`        | <img src="carriers/laPosta.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />        |
-| PostNL                 | `postNl`         | <img src="carriers/postNl.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />         |
-| bpost                  | `bpost`          | <img src="carriers/bpost.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />          |
-| La Poste               | `laPoste`        | <img src="carriers/laPoste.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />        |
-| Colissimo              | `colissimo`      | <img src="carriers/colissimo.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />      |
-| Poste Italiane         | `posteItaliane`  | <img src="carriers/posteItaliane.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />  |
-| Correos                | `correos`        | <img src="carriers/correos.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />        |
-| CTT                    | `ctt`            | <img src="carriers/ctt.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />            |
-| postnord               | `postnord`       | <img src="carriers/postnord.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />       |
-| posti (Finland)        | `posti`          | <img src="carriers/posti.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />          |
-| omniva                 | `omniva`         | <img src="carriers/omniva.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />         |
-| Česká Pošta            | `ceskaPosta`     | <img src="carriers/ceskaPosta.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />     |
-| Zásilkovna             | `zasilkovna`     | <img src="carriers/zasilkovna.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />     |
-| Pošta Slovenije        | `postaSlovenije` | <img src="carriers/postaSlovenije.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" /> |
-| Slovenská Pošta        | `slovenskaPosta` | <img src="carriers/slovenskaPosta.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" /> |
-| Еконт (Bulgaria)       | `econt`          | <img src="carriers/econt.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />          |
-| FAN Courier (Romania)  | `fanCourier`     | <img src="carriers/fanCourier.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />     |
-| Magyar Posta (Hungary) | `magyarPosta`    | <img src="carriers/magyarPosta.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />    |
+| Name                   | Key               | Preview                                                                                                                     |
+| ---------------------- | ----------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| DHL                    | `dhl`             | <img src="carriers/dhl.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />             |
+| Hermes                 | `hermes`          | <img src="carriers/hermes.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />          |
+| UPS                    | `ups`             | <img src="carriers/ups.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />             |
+| DPD                    | `dpd`             | <img src="carriers/dpd.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />             |
+| GLS                    | `gls`             | <img src="carriers/gls.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />             |
+| FedEx                  | `fedEx`           | <img src="carriers/fedEx.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />           |
+| USPS                   | `usps`            | <img src="carriers/usps.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />            |
+| Canada Post            | `canadaPost`      | <img src="carriers/canadaPost.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />      |
+| Deutsche Post          | `deutschePost`    | <img src="carriers/deutschePost.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />    |
+| Post (Austria)         | `post`            | <img src="carriers/post.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />            |
+| Die Post (Switzerland) | `diePost`         | <img src="carriers/diePost.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />         |
+| La Poste (Switzerland) | `laPoste2`        | <img src="carriers/laPoste2.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />        |
+| La Posta (Switzerland) | `laPosta`         | <img src="carriers/laPosta.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />         |
+| PostNL                 | `postNl`          | <img src="carriers/postNl.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />          |
+| bpost                  | `bpost`           | <img src="carriers/bpost.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />           |
+| La Poste               | `laPoste`         | <img src="carriers/laPoste.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />         |
+| Colissimo              | `colissimo`       | <img src="carriers/colissimo.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />       |
+| Poste Italiane         | `posteItaliane`   | <img src="carriers/posteItaliane.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />   |
+| Correos                | `correos`         | <img src="carriers/correos.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />         |
+| CTT                    | `ctt`             | <img src="carriers/ctt.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />             |
+| postnord               | `postnord`        | <img src="carriers/postnord.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />        |
+| posti (Finland)        | `posti`           | <img src="carriers/posti.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />           |
+| Fastway Couriers       | `fastwayCouriers` | <img src="carriers/fastwayCouriers.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" /> |
+| omniva                 | `omniva`          | <img src="carriers/omniva.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />          |
+| Česká Pošta            | `ceskaPosta`      | <img src="carriers/ceskaPosta.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />      |
+| Zásilkovna             | `zasilkovna`      | <img src="carriers/zasilkovna.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />      |
+| Pošta Slovenije        | `postaSlovenije`  | <img src="carriers/postaSlovenije.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />  |
+| Slovenská Pošta        | `slovenskaPosta`  | <img src="carriers/slovenskaPosta.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />  |
+| Еконт (Bulgaria)       | `econt`           | <img src="carriers/econt.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />           |
+| FAN Courier (Romania)  | `fanCourier`      | <img src="carriers/fanCourier.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />      |
+| Magyar Posta (Hungary) | `magyarPosta`     | <img src="carriers/magyarPosta.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />     |
