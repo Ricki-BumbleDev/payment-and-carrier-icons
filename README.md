@@ -4,72 +4,72 @@ Payment and Carrier Brand Icons / Logos for eCommerce in unified sizes / aspect 
 
 ## Payment Methods
 
-| Name                           | Key               | Preview                                                                                        |
-| ------------------------------ | ----------------- | ---------------------------------------------------------------------------------------------- |
-| Credit Card (Mastercard, VISA) | `mastercardVisa`  | <img src="https://media.nexacommerce.com/paymentMethods/mastercardVisa.svg" width="110px"  />  |
-| PayPal                         | `payPal`          | <img src="https://media.nexacommerce.com/paymentMethods/payPal.svg" width="110px"  />          |
-| Google Pay                     | `googlePay`       | <img src="https://media.nexacommerce.com/paymentMethods/googlePay.svg" width="110px"  />       |
-| Apple Pay                      | `applePay`        | <img src="https://media.nexacommerce.com/paymentMethods/applePay.svg" width="110px"  />        |
-| Amazon Pay                     | `amazonPay`       | <img src="https://media.nexacommerce.com/paymentMethods/amazonPay.svg" width="110px"  />       |
-| Klarna                         | `klarna`          | <img src="https://media.nexacommerce.com/paymentMethods/klarna.svg" width="110px"  />          |
-| SEPA Direct Debit              | `sepaDirectDebit` | <img src="https://media.nexacommerce.com/paymentMethods/sepaDirectDebit.svg" width="110px"  /> |
-| Alipay                         | `alipay`          | <img src="https://media.nexacommerce.com/paymentMethods/alipay.svg" width="110px"  />          |
-| WeChat Pay                     | `weChatPay`       | <img src="https://media.nexacommerce.com/paymentMethods/weChatPay.svg" width="110px"  />       |
-| paysafecard                    | `paysafecard`     | <img src="https://media.nexacommerce.com/paymentMethods/paysafecard.svg" width="110px"  />     |
-| Skrill                         | `skrill`          | <img src="https://media.nexacommerce.com/paymentMethods/skrill.svg" width="110px"  />          |
-| iDEAL                          | `iDeal`           | <img src="https://media.nexacommerce.com/paymentMethods/iDeal.svg" width="110px"  />           |
-| Bancontact                     | `bancontact`      | <img src="https://media.nexacommerce.com/paymentMethods/bancontact.svg" width="110px"  />      |
-| MobilePay                      | `mobilePay`       | <img src="https://media.nexacommerce.com/paymentMethods/mobilePay.svg" width="110px"  />       |
-| PayU                           | `payU`            | <img src="https://media.nexacommerce.com/paymentMethods/payU.svg" width="110px"  />            |
-| PostFinance                    | `postFinance`     | <img src="https://media.nexacommerce.com/paymentMethods/postFinance.svg" width="110px"  />     |
-| giropay                        | `giropay`         | <img src="https://media.nexacommerce.com/paymentMethods/giropay.svg" width="110px"  />         |
-| MB WAY                         | `mbWay`           | <img src="https://media.nexacommerce.com/paymentMethods/mbWay.svg" width="110px"  />           |
-| Przelewy24                     | `przelewy24`      | <img src="https://media.nexacommerce.com/paymentMethods/przelewy24.svg" width="110px"  />      |
-| Afterpay                       | `afterpay`        | <img src="https://media.nexacommerce.com/paymentMethods/afterpay.svg" width="110px"  />        |
-| Ratepay                        | `ratepay`         | <img src="https://media.nexacommerce.com/paymentMethods/ratepay.svg" width="110px"  />         |
-| AfterPay                       | `afterPay2`       | <img src="https://media.nexacommerce.com/paymentMethods/afterPay2.svg" width="110px"  />       |
-| Bitcoin (BTC)                  | `bitcoin`         | <img src="https://media.nexacommerce.com/paymentMethods/bitcoin.svg" width="110px"  />         |
-| Ethereum (ETH)                 | `ethereum`        | <img src="https://media.nexacommerce.com/paymentMethods/ethereum.svg" width="110px"  />        |
-| Binance Coin (BNB)             | `binance`         | <img src="https://media.nexacommerce.com/paymentMethods/binance.svg" width="110px"  />         |
-| Ripple (XRP)                   | `xrp`             | <img src="https://media.nexacommerce.com/paymentMethods/xrp.svg" width="110px"  />             |
-| Cardano (ADA)                  | `cardano`         | <img src="https://media.nexacommerce.com/paymentMethods/cardano.svg" width="110px"  />         |
-| Solana (SOL)                   | `solana`          | <img src="https://media.nexacommerce.com/paymentMethods/solana.svg" width="110px"  />          |
-| Stellar (XLM)                  | `stellar`         | <img src="https://media.nexacommerce.com/paymentMethods/stellar.svg" width="110px"  />         |
+| Name                           | Key               | Preview                                                                                                                           |
+| ------------------------------ | ----------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| Credit Card (Mastercard, VISA) | `mastercardVisa`  | <img src="paymentMethods/mastercardVisa.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />  |
+| PayPal                         | `payPal`          | <img src="paymentMethods/payPal.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />          |
+| Google Pay                     | `googlePay`       | <img src="paymentMethods/googlePay.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />       |
+| Apple Pay                      | `applePay`        | <img src="paymentMethods/applePay.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />        |
+| Amazon Pay                     | `amazonPay`       | <img src="paymentMethods/amazonPay.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />       |
+| Klarna                         | `klarna`          | <img src="paymentMethods/klarna.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />          |
+| SEPA Direct Debit              | `sepaDirectDebit` | <img src="paymentMethods/sepaDirectDebit.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" /> |
+| Alipay                         | `alipay`          | <img src="paymentMethods/alipay.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />          |
+| WeChat Pay                     | `weChatPay`       | <img src="paymentMethods/weChatPay.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />       |
+| paysafecard                    | `paysafecard`     | <img src="paymentMethods/paysafecard.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />     |
+| Skrill                         | `skrill`          | <img src="paymentMethods/skrill.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />          |
+| iDEAL                          | `iDeal`           | <img src="paymentMethods/iDeal.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />           |
+| Bancontact                     | `bancontact`      | <img src="paymentMethods/bancontact.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />      |
+| MobilePay                      | `mobilePay`       | <img src="paymentMethods/mobilePay.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />       |
+| PayU                           | `payU`            | <img src="paymentMethods/payU.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />            |
+| PostFinance                    | `postFinance`     | <img src="paymentMethods/postFinance.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />     |
+| giropay                        | `giropay`         | <img src="paymentMethods/giropay.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />         |
+| MB WAY                         | `mbWay`           | <img src="paymentMethods/mbWay.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />           |
+| Przelewy24                     | `przelewy24`      | <img src="paymentMethods/przelewy24.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />      |
+| Afterpay                       | `afterpay`        | <img src="paymentMethods/afterpay.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />        |
+| Ratepay                        | `ratepay`         | <img src="paymentMethods/ratepay.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />         |
+| AfterPay                       | `afterPay2`       | <img src="paymentMethods/afterPay2.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />       |
+| Bitcoin (BTC)                  | `bitcoin`         | <img src="paymentMethods/bitcoin.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />         |
+| Ethereum (ETH)                 | `ethereum`        | <img src="paymentMethods/ethereum.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />        |
+| Binance Coin (BNB)             | `binance`         | <img src="paymentMethods/binance.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />         |
+| Ripple (XRP)                   | `xrp`             | <img src="paymentMethods/xrp.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />             |
+| Cardano (ADA)                  | `cardano`         | <img src="paymentMethods/cardano.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />         |
+| Solana (SOL)                   | `solana`          | <img src="paymentMethods/solana.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />          |
+| Stellar (XLM)                  | `stellar`         | <img src="paymentMethods/stellar.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />         |
 
 ## Carriers
 
-| Name                   | Key               | Preview                                                                                  |
-| ---------------------- | ----------------- | ---------------------------------------------------------------------------------------- |
-| DHL                    | `dhl`             | <img src="https://media.nexacommerce.com/carriers/dhl.svg" width="110px"  />             |
-| Hermes                 | `hermes`          | <img src="https://media.nexacommerce.com/carriers/hermes.svg" width="110px"  />          |
-| UPS                    | `ups`             | <img src="https://media.nexacommerce.com/carriers/ups.svg" width="110px"  />             |
-| DPD                    | `dpd`             | <img src="https://media.nexacommerce.com/carriers/dpd.svg" width="110px"  />             |
-| GLS                    | `gls`             | <img src="https://media.nexacommerce.com/carriers/gls.svg" width="110px"  />             |
-| FedEx                  | `fedEx`           | <img src="https://media.nexacommerce.com/carriers/fedEx.svg" width="110px"  />           |
-| USPS                   | `postUs`          | <img src="https://media.nexacommerce.com/carriers/postUs.svg" width="110px"  />          |
-| Canada Post            | `postCa`          | <img src="https://media.nexacommerce.com/carriers/postCa.svg" width="110px"  />          |
-| Deutsche Post          | `postDe`          | <img src="https://media.nexacommerce.com/carriers/postDe.svg" width="110px"  />          |
-| Post (Austria)         | `postAt`          | <img src="https://media.nexacommerce.com/carriers/postAt.svg" width="110px"  />          |
-| Die Post (Switzerland) | `postChDe`        | <img src="https://media.nexacommerce.com/carriers/postChDe.svg" width="110px"  />        |
-| La Poste (Switzerland) | `postChFr`        | <img src="https://media.nexacommerce.com/carriers/postChFr.svg" width="110px"  />        |
-| La Posta (Switzerland) | `postChIt`        | <img src="https://media.nexacommerce.com/carriers/postChIt.svg" width="110px"  />        |
-| PostNL                 | `postNl`          | <img src="https://media.nexacommerce.com/carriers/postNl.svg" width="110px"  />          |
-| bpost                  | `postBe`          | <img src="https://media.nexacommerce.com/carriers/postBe.svg" width="110px"  />          |
-| La Poste               | `postFr`          | <img src="https://media.nexacommerce.com/carriers/postFr.svg" width="110px"  />          |
-| Poste Italiane         | `postIt`          | <img src="https://media.nexacommerce.com/carriers/postIt.svg" width="110px"  />          |
-| Correos                | `postEs`          | <img src="https://media.nexacommerce.com/carriers/postEs.svg" width="110px"  />          |
-| posti (Finland)        | `postFi`          | <img src="https://media.nexacommerce.com/carriers/postFi.svg" width="110px"  />          |
-| Česká Pošta            | `postCz`          | <img src="https://media.nexacommerce.com/carriers/postCz.svg" width="110px"  />          |
-| Pošta Slovenije        | `postSi`          | <img src="https://media.nexacommerce.com/carriers/postSi.svg" width="110px"  />          |
-| Slovenská Pošta        | `postSk`          | <img src="https://media.nexacommerce.com/carriers/postSk.svg" width="110px"  />          |
-| Magyar Posta (Hungary) | `postHu`          | <img src="https://media.nexacommerce.com/carriers/postHu.svg" width="110px"  />          |
-| Colissimo              | `colissimo`       | <img src="https://media.nexacommerce.com/carriers/colissimo.svg" width="110px"  />       |
-| SDA                    | `sda`             | <img src="https://media.nexacommerce.com/carriers/sda.svg" width="110px"  />             |
-| CTT                    | `ctt`             | <img src="https://media.nexacommerce.com/carriers/ctt.svg" width="110px"  />             |
-| PostNord               | `postnord`        | <img src="https://media.nexacommerce.com/carriers/postnord.svg" width="110px"  />        |
-| Fastway Couriers       | `fastwayCouriers` | <img src="https://media.nexacommerce.com/carriers/fastwayCouriers.svg" width="110px"  /> |
-| omniva                 | `omniva`          | <img src="https://media.nexacommerce.com/carriers/omniva.svg" width="110px"  />          |
-| Zásilkovna             | `zasilkovna`      | <img src="https://media.nexacommerce.com/carriers/zasilkovna.svg" width="110px"  />      |
-| PPL                    | `ppl`             | <img src="https://media.nexacommerce.com/carriers/ppl.svg" width="110px"  />             |
-| Еконт                  | `econt`           | <img src="https://media.nexacommerce.com/carriers/econt.svg" width="110px"  />           |
-| FAN Courier            | `fanCourier`      | <img src="https://media.nexacommerce.com/carriers/fanCourier.svg" width="110px"  />      |
+| Name                   | Key               | Preview                                                                                                                     |
+| ---------------------- | ----------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| DHL                    | `dhl`             | <img src="carriers/dhl.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />             |
+| Hermes                 | `hermes`          | <img src="carriers/hermes.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />          |
+| UPS                    | `ups`             | <img src="carriers/ups.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />             |
+| DPD                    | `dpd`             | <img src="carriers/dpd.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />             |
+| GLS                    | `gls`             | <img src="carriers/gls.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />             |
+| FedEx                  | `fedEx`           | <img src="carriers/fedEx.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />           |
+| USPS                   | `postUs`          | <img src="carriers/postUs.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />          |
+| Canada Post            | `postCa`          | <img src="carriers/postCa.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />          |
+| Deutsche Post          | `postDe`          | <img src="carriers/postDe.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />          |
+| Post (Austria)         | `postAt`          | <img src="carriers/postAt.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />          |
+| Die Post (Switzerland) | `postChDe`        | <img src="carriers/postChDe.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />        |
+| La Poste (Switzerland) | `postChFr`        | <img src="carriers/postChFr.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />        |
+| La Posta (Switzerland) | `postChIt`        | <img src="carriers/postChIt.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />        |
+| PostNL                 | `postNl`          | <img src="carriers/postNl.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />          |
+| bpost                  | `postBe`          | <img src="carriers/postBe.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />          |
+| La Poste               | `postFr`          | <img src="carriers/postFr.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />          |
+| Poste Italiane         | `postIt`          | <img src="carriers/postIt.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />          |
+| Correos                | `postEs`          | <img src="carriers/postEs.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />          |
+| posti (Finland)        | `postFi`          | <img src="carriers/postFi.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />          |
+| Česká Pošta            | `postCz`          | <img src="carriers/postCz.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />          |
+| Pošta Slovenije        | `postSi`          | <img src="carriers/postSi.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />          |
+| Slovenská Pošta        | `postSk`          | <img src="carriers/postSk.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />          |
+| Magyar Posta (Hungary) | `postHu`          | <img src="carriers/postHu.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />          |
+| Colissimo              | `colissimo`       | <img src="carriers/colissimo.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />       |
+| SDA                    | `sda`             | <img src="carriers/sda.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />             |
+| CTT                    | `ctt`             | <img src="carriers/ctt.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />             |
+| PostNord               | `postnord`        | <img src="carriers/postnord.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />        |
+| Fastway Couriers       | `fastwayCouriers` | <img src="carriers/fastwayCouriers.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" /> |
+| omniva                 | `omniva`          | <img src="carriers/omniva.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />          |
+| Zásilkovna             | `zasilkovna`      | <img src="carriers/zasilkovna.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />      |
+| PPL                    | `ppl`             | <img src="carriers/ppl.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />             |
+| Еконт                  | `econt`           | <img src="carriers/econt.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />           |
+| FAN Courier            | `fanCourier`      | <img src="carriers/fanCourier.svg" style="width: 120px; padding: 5px; background-color: white; border-radius: 5px;" />      |
