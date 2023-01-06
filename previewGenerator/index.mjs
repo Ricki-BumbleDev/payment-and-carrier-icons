@@ -30,7 +30,7 @@ const sectionDefinitions = [
     categories: [
       { key: 'international', headline: 'International' },
       { key: 'nationalPost', headline: 'National Postal Services', hasCountries: true },
-      { key: 'other', headline: 'Regional', hasCountries: true }
+      { key: 'other', headline: 'Other', hasCountries: true }
     ]
   }
 ];
