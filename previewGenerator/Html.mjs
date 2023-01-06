@@ -1,4 +1,4 @@
-const Layout = content => `<!DOCTYPE html>
+const Html = content => `<!DOCTYPE html>
 <html>
   <head>
     <meta charset="UTF-8" />
@@ -36,4 +36,4 @@ const Layout = content => `<!DOCTYPE html>
   </body>
 </html>`;
 
-export default Layout;
+export default Html;

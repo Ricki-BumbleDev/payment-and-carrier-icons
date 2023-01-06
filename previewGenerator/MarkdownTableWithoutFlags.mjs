@@ -1,13 +1,8 @@
-const CountryFlag = countryCode =>
-  `<img src="https://hatscripts.github.io/circle-flags/flags/${countryCode.toLowerCase()}.svg" style="width: 28px; display: block;" />`;
+const countryNames = new Intl.DisplayNames('en', { type: 'region' });
 
 const Entry = (entry, section, hasCountries) =>
   `|${entry.label}|\`${entry.key}\`|<img src="${section}/${entry.key}.svg" style="width: 80px; display: block;" />|${
-    hasCountries
-      ? entry.countries
-        ? `<div style="display: flex; gap: 6px;">${entry.countries.map(CountryFlag).join('')}</div>|`
-        : '|'
-      : ''
+    hasCountries ? `${entry.countries?.map(countryCode => countryNames.of(countryCode)).join(', ') ?? ''}|` : ''
   }`;
 
 const Category = (category, section) =>

@@ -1,4 +1,4 @@
-import Layout from './Layout.mjs';
+import Html from './Html.mjs';
 
 const Entry = (entry, section) => `<img src="${section}/${entry.key}.svg" class="icon" />`;
 
@@ -9,6 +9,6 @@ const Section = section =>
     .map(category => Category(category, section.key))
     .join('')}</div>`;
 
-const SimplePreview = sections => Layout(sections.map(Section).join(''));
+const SimplePreview = sections => Html(sections.map(Section).join(''));
 
 export default SimplePreview;
