@@ -13,6 +13,6 @@ const Category = (category, section) =>
 const Section = section =>
   `## ${section.headline}\n${section.categories.map(category => Category(category, section.key)).join('\n')}`;
 
-const MarkdownTable = sections => sections.map(Section).join('\n');
+const MarkdownTableGitHub = sections => sections.map(Section).join('\n');
 
-export default MarkdownTable;
+export default MarkdownTableGitHub;

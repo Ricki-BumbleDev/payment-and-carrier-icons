@@ -6,7 +6,7 @@ const Entry = (entry, section, hasCountries) =>
     hasCountries
       ? entry.countries
         ? `<div style="display: flex; gap: 6px;">${entry.countries.map(CountryFlag).join('')}</div>|`
-        : '|'
+        : 'Various|'
       : ''
   }`;
 

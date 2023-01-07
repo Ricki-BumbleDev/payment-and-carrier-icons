@@ -1,13 +1,20 @@
 import fs from 'fs/promises';
 import CategoryPreview from './CategoryPreview.mjs';
 import MarkdownTable from './MarkdownTable.mjs';
-import MarkdownTableWithoutFlags from './MarkdownTableWithoutFlags.mjs';
+import MarkdownTableDoctave from './MarkdownTableDoctave.mjs';
+import MarkdownTableGitHub from './MarkdownTableGitHub.mjs';
 import SimplePreview from './SimplePreview.mjs';
 
-const renderer = 'MarkdownTableWithoutFlags';
-const outputFile = 'preview.md';
+const renderer = 'SimplePreview';
+const outputFile = 'preview.html';
 
-const rendererComponents = { SimplePreview, CategoryPreview, MarkdownTable, MarkdownTableWithoutFlags };
+const rendererComponents = {
+  SimplePreview,
+  CategoryPreview,
+  MarkdownTable,
+  MarkdownTableGitHub,
+  MarkdownTableDoctave
+};
 
 const sectionDefinitions = [
   {
