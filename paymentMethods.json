@@ -22,6 +22,7 @@
   { "key": "mobilePay", "label": "MobilePay", "category": "service2", "countries": ["DK"] },
   { "key": "giropay", "label": "giropay", "category": "service2", "countries": ["DE"] },
   { "key": "przelewy24", "label": "Przelewy24", "category": "service2", "countries": ["PL"] },
+  { "key": "twint", "label": "Twint", "category": "service2", "countries": ["CH"] },
   { "key": "twisto", "label": "Twisto", "category": "service2", "countries": ["CZ"] },
   { "key": "mbWay", "label": "MB WAY", "category": "service2", "countries": ["PT"] },
   { "key": "swish", "label": "Swish", "category": "service2", "countries": ["SE"] },

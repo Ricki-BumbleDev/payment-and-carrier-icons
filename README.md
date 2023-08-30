@@ -51,6 +51,7 @@ Payment and Carrier Brand Icons / Logos for eCommerce in unified sizes / aspect 
 | MobilePay   | `mobilePay`   | <img src="paymentMethods/mobilePay.svg" style="width: 86px; display: block;" />   | Denmark       |
 | giropay     | `giropay`     | <img src="paymentMethods/giropay.svg" style="width: 86px; display: block;" />     | Germany       |
 | Przelewy24  | `przelewy24`  | <img src="paymentMethods/przelewy24.svg" style="width: 86px; display: block;" />  | Poland        |
+| Twint       | `twint`       | <img src="paymentMethods/twint.svg" style="width: 86px; display: block;" />       | Switzerland   |
 | Twisto      | `twisto`      | <img src="paymentMethods/twisto.svg" style="width: 86px; display: block;" />      | Czechia       |
 | MB WAY      | `mbWay`       | <img src="paymentMethods/mbWay.svg" style="width: 86px; display: block;" />       | Portugal      |
 | Swish       | `swish`       | <img src="paymentMethods/swish.svg" style="width: 86px; display: block;" />       | Sweden        |
@@ -137,10 +138,15 @@ Payment and Carrier Brand Icons / Logos for eCommerce in unified sizes / aspect 
 | ACS                | `acs`               | <img src="carriers/acs.svg" style="width: 86px; display: block;" />               | Greece                           |
 | Aramex             | `aramex`            | <img src="carriers/aramex.svg" style="width: 86px; display: block;" />            | Saudi Arabia                     |
 | Asendia            | `asendia`           | <img src="carriers/asendia.svg" style="width: 86px; display: block;" />           | Various                          |
+| bring              | `bring`             | <img src="carriers/bring.svg" style="width: 86px; display: block;" />             | Denmark, Finland, Norway, Sweden |
+| Evri               | `evri`              | <img src="carriers/evri.svg" style="width: 86px; display: block;" />              | United Kingdom                   |
 | Еконт              | `econt`             | <img src="carriers/econt.svg" style="width: 86px; display: block;" />             | Bulgaria                         |
 | FAN Courier        | `fanCourier`        | <img src="carriers/fanCourier.svg" style="width: 86px; display: block;" />        | Romania                          |
 | Fastway Couriers   | `fastwayCouriers`   | <img src="carriers/fastwayCouriers.svg" style="width: 86px; display: block;" />   | Ireland                          |
 | Γενική Ταχυδρομική | `genikiTaxydromiki` | <img src="carriers/genikiTaxydromiki.svg" style="width: 86px; display: block;" /> | Greece                           |
+| InPost             | `inPost`            | <img src="carriers/inPost.svg" style="width: 86px; display: block;" />            | Poland                           |
+| inTime             | `inTime`            | <img src="carriers/inTime.svg" style="width: 86px; display: block;" />            | Germany                          |
+| Mondial Relay      | `mondialRelay`      | <img src="carriers/mondialRelay.svg" style="width: 86px; display: block;" />      | France                           |
 | omniva             | `omniva`            | <img src="carriers/omniva.svg" style="width: 86px; display: block;" />            | Estonia, Latvia, Lithuania       |
 | PostNord           | `postNord`          | <img src="carriers/postNord.svg" style="width: 86px; display: block;" />          | Denmark, Finland, Norway, Sweden |
 | PPL                | `ppl`               | <img src="carriers/ppl.svg" style="width: 86px; display: block;" />               | Czechia                          |
