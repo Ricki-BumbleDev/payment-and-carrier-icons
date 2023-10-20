@@ -50,6 +50,10 @@
   { "key": "omniva", "label": "omniva", "category": "other", "countries": ["EE", "LV", "LT"] },
   { "key": "postNord", "label": "PostNord", "category": "other", "countries": ["DK", "FI", "NO", "SE"] },
   { "key": "ppl", "label": "PPL", "category": "other", "countries": ["CZ"] },
+  { "key": "quickpac", "label": "Quickpac", "category": "other", "countries": ["CH"] },
   { "key": "servientrega", "label": "Servientrega", "category": "other", "countries": ["CO"] },
+  { "key": "speedy", "label": "Speedy", "category": "other", "countries": ["BG"] },
+  { "key": "sps", "label": "SPS", "category": "other", "countries": ["SK"] },
+  { "key": "suedmail", "label": "südmail", "category": "other", "countries": ["DE"] },
   { "key": "zasilkovna", "label": "Zásilkovna", "category": "other", "countries": ["CZ"] }
 ]

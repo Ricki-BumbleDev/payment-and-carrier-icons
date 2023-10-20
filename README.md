@@ -150,5 +150,9 @@ Payment and Carrier Brand Icons / Logos for eCommerce in unified sizes / aspect 
 | omniva             | `omniva`            | <img src="carriers/omniva.svg" style="width: 86px; display: block;" />            | Estonia, Latvia, Lithuania       |
 | PostNord           | `postNord`          | <img src="carriers/postNord.svg" style="width: 86px; display: block;" />          | Denmark, Finland, Norway, Sweden |
 | PPL                | `ppl`               | <img src="carriers/ppl.svg" style="width: 86px; display: block;" />               | Czechia                          |
+| Quickpac           | `quickpac`          | <img src="carriers/quickpac.svg" style="width: 86px; display: block;" />          | Switzerland                      |
 | Servientrega       | `servientrega`      | <img src="carriers/servientrega.svg" style="width: 86px; display: block;" />      | Colombia                         |
+| Speedy             | `speedy`            | <img src="carriers/speedy.svg" style="width: 86px; display: block;" />            | Bulgaria                         |
+| SPS                | `sps`               | <img src="carriers/sps.svg" style="width: 86px; display: block;" />               | Slovakia                         |
+| südmail            | `suedmail`          | <img src="carriers/suedmail.svg" style="width: 86px; display: block;" />          | Germany                          |
 | Zásilkovna         | `zasilkovna`        | <img src="carriers/zasilkovna.svg" style="width: 86px; display: block;" />        | Czechia                          |
