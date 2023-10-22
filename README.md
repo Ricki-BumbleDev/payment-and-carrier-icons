@@ -139,6 +139,8 @@ Payment and Carrier Brand Icons / Logos for eCommerce in unified sizes / aspect 
 | Aramex             | `aramex`            | <img src="carriers/aramex.svg" style="width: 86px; display: block;" />            | Saudi Arabia                     |
 | Asendia            | `asendia`           | <img src="carriers/asendia.svg" style="width: 86px; display: block;" />           | Various                          |
 | bring              | `bring`             | <img src="carriers/bring.svg" style="width: 86px; display: block;" />             | Denmark, Finland, Norway, Sweden |
+| BRT                | `brt`               | <img src="carriers/brt.svg" style="width: 86px; display: block;" />               | Italy                            |
+| Chronopost         | `chronopost`        | <img src="carriers/chronopost.svg" style="width: 86px; display: block;" />        | France                           |
 | Evri               | `evri`              | <img src="carriers/evri.svg" style="width: 86px; display: block;" />              | United Kingdom                   |
 | Еконт              | `econt`             | <img src="carriers/econt.svg" style="width: 86px; display: block;" />             | Bulgaria                         |
 | FAN Courier        | `fanCourier`        | <img src="carriers/fanCourier.svg" style="width: 86px; display: block;" />        | Romania                          |
@@ -152,7 +154,9 @@ Payment and Carrier Brand Icons / Logos for eCommerce in unified sizes / aspect 
 | PPL                | `ppl`               | <img src="carriers/ppl.svg" style="width: 86px; display: block;" />               | Czechia                          |
 | Quickpac           | `quickpac`          | <img src="carriers/quickpac.svg" style="width: 86px; display: block;" />          | Switzerland                      |
 | Servientrega       | `servientrega`      | <img src="carriers/servientrega.svg" style="width: 86px; display: block;" />      | Colombia                         |
+| SEUR               | `seur`              | <img src="carriers/seur.svg" style="width: 86px; display: block;" />              | Spain                            |
 | Speedy             | `speedy`            | <img src="carriers/speedy.svg" style="width: 86px; display: block;" />            | Bulgaria                         |
 | SPS                | `sps`               | <img src="carriers/sps.svg" style="width: 86px; display: block;" />               | Slovakia                         |
 | südmail            | `suedmail`          | <img src="carriers/suedmail.svg" style="width: 86px; display: block;" />          | Germany                          |
+| Yodel              | `yodel`             | <img src="carriers/yodel.svg" style="width: 86px; display: block;" />             | United Kingdom                   |
 | Zásilkovna         | `zasilkovna`        | <img src="carriers/zasilkovna.svg" style="width: 86px; display: block;" />        | Czechia                          |

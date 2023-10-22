@@ -39,6 +39,8 @@
   { "key": "aramex", "label": "Aramex", "category": "other", "countries": ["SA"] },
   { "key": "asendia", "label": "Asendia", "category": "other" },
   { "key": "bring", "label": "bring", "category": "other",  "countries": ["DK", "FI", "NO", "SE"] },
+  { "key": "brt", "label": "BRT", "category": "other",  "countries": ["IT"] },
+  { "key": "chronopost", "label": "Chronopost", "category": "other",  "countries": ["FR"] },
   { "key": "evri", "label": "Evri", "category": "other", "countries": ["GB"] },
   { "key": "econt", "label": "Еконт", "category": "other", "countries": ["BG"] },
   { "key": "fanCourier", "label": "FAN Courier", "category": "other", "countries": ["RO"] },
@@ -52,8 +54,10 @@
   { "key": "ppl", "label": "PPL", "category": "other", "countries": ["CZ"] },
   { "key": "quickpac", "label": "Quickpac", "category": "other", "countries": ["CH"] },
   { "key": "servientrega", "label": "Servientrega", "category": "other", "countries": ["CO"] },
+  { "key": "seur", "label": "SEUR", "category": "other", "countries": ["ES"] },
   { "key": "speedy", "label": "Speedy", "category": "other", "countries": ["BG"] },
   { "key": "sps", "label": "SPS", "category": "other", "countries": ["SK"] },
   { "key": "suedmail", "label": "südmail", "category": "other", "countries": ["DE"] },
+  { "key": "yodel", "label": "Yodel", "category": "other", "countries": ["GB"] },
   { "key": "zasilkovna", "label": "Zásilkovna", "category": "other", "countries": ["CZ"] }
 ]
