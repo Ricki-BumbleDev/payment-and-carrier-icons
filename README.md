@@ -49,7 +49,7 @@ Payment and Carrier Brand Icons / Logos for eCommerce in unified sizes / aspect 
 | WeChat Pay  | `weChatPay`   | <img src="paymentMethods/weChatPay.svg" style="width: 86px; display: block;" />   | China                    |
 | iDEAL       | `iDeal`       | <img src="paymentMethods/iDeal.svg" style="width: 86px; display: block;" />       | Netherlands              |
 | MobilePay   | `mobilePay`   | <img src="paymentMethods/mobilePay.svg" style="width: 86px; display: block;" />   | Denmark                  |
-| wero        | `wero`        | <img src="paymentMethods/wero.svg" style="width: 86px; display: block;" />        | Germany, France, Belgium |
+| Wero        | `wero`        | <img src="paymentMethods/wero.svg" style="width: 86px; display: block;" />        | Germany, France, Belgium |
 | Przelewy24  | `przelewy24`  | <img src="paymentMethods/przelewy24.svg" style="width: 86px; display: block;" />  | Poland                   |
 | Twint       | `twint`       | <img src="paymentMethods/twint.svg" style="width: 86px; display: block;" />       | Switzerland              |
 | Twisto      | `twisto`      | <img src="paymentMethods/twisto.svg" style="width: 86px; display: block;" />      | Czechia                  |

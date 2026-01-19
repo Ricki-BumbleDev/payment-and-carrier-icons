@@ -20,7 +20,7 @@
   { "key": "weChatPay", "label": "WeChat Pay", "category": "service2", "countries": ["CN"] },
   { "key": "iDeal", "label": "iDEAL", "category": "service2", "countries": ["NL"] },
   { "key": "mobilePay", "label": "MobilePay", "category": "service2", "countries": ["DK"] },
-  { "key": "wero", "label": "wero", "category": "service2", "countries": ["DE", "FR", "BE"] },
+  { "key": "wero", "label": "Wero", "category": "service2", "countries": ["DE", "FR", "BE"] },
   { "key": "przelewy24", "label": "Przelewy24", "category": "service2", "countries": ["PL"] },
   { "key": "twint", "label": "Twint", "category": "service2", "countries": ["CH"] },
   { "key": "twisto", "label": "Twisto", "category": "service2", "countries": ["CZ"] },
