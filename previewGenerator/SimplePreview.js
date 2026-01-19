@@ -1,4 +1,4 @@
-import Html from './Html.mjs';
+import Html from './Html.js';
 
 const Entry = (entry, section) => `<img src="${section}/${entry.key}.svg" class="icon" />`;
 

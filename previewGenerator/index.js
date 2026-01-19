@@ -1,12 +1,17 @@
-import fs from 'fs/promises';
-import CategoryPreview from './CategoryPreview.mjs';
-import MarkdownTable from './MarkdownTable.mjs';
-import MarkdownTableDoctave from './MarkdownTableDoctave.mjs';
-import MarkdownTableGitHub from './MarkdownTableGitHub.mjs';
-import SimplePreview from './SimplePreview.mjs';
+import fs from 'node:fs/promises';
+import CategoryPreview from './CategoryPreview.js';
+import MarkdownTable from './MarkdownTable.js';
+import MarkdownTableDoctave from './MarkdownTableDoctave.js';
+import MarkdownTableGitHub from './MarkdownTableGitHub.js';
+import SimplePreview from './SimplePreview.js';
 
-const renderer = 'SimplePreview';
-const outputFile = 'preview.html';
+const args = process.argv.slice(2);
+if (args.length < 2) {
+  console.error('Usage: node previewGenerator/index.js <renderer> <outputFile>');
+  console.error('Available renderers: SimplePreview, CategoryPreview, MarkdownTable, MarkdownTableGitHub, MarkdownTableDoctave');
+  process.exit(1);
+}
+const [renderer, outputFile] = args;
 
 const rendererComponents = {
   SimplePreview,
@@ -59,5 +64,3 @@ const sections = await Promise.all(
 const Renderer = rendererComponents[renderer];
 const output = Renderer(sections);
 await fs.writeFile(outputFile, output);
-
-// <img src="https://media.nexacommerce.com/${file}" width="110px"  />

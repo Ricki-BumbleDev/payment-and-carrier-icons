@@ -43,20 +43,20 @@ Payment and Carrier Brand Icons / Logos for eCommerce in unified sizes / aspect 
 
 ### Services (Regional)
 
-| Name        | Key           | Preview                                                                           | Countries     |
-| ----------- | ------------- | --------------------------------------------------------------------------------- | ------------- |
-| Alipay      | `alipay`      | <img src="paymentMethods/alipay.svg" style="width: 86px; display: block;" />      | China         |
-| WeChat Pay  | `weChatPay`   | <img src="paymentMethods/weChatPay.svg" style="width: 86px; display: block;" />   | China         |
-| iDEAL       | `iDeal`       | <img src="paymentMethods/iDeal.svg" style="width: 86px; display: block;" />       | Netherlands   |
-| MobilePay   | `mobilePay`   | <img src="paymentMethods/mobilePay.svg" style="width: 86px; display: block;" />   | Denmark       |
-| giropay     | `giropay`     | <img src="paymentMethods/giropay.svg" style="width: 86px; display: block;" />     | Germany       |
-| Przelewy24  | `przelewy24`  | <img src="paymentMethods/przelewy24.svg" style="width: 86px; display: block;" />  | Poland        |
-| Twint       | `twint`       | <img src="paymentMethods/twint.svg" style="width: 86px; display: block;" />       | Switzerland   |
-| Twisto      | `twisto`      | <img src="paymentMethods/twisto.svg" style="width: 86px; display: block;" />      | Czechia       |
-| MB WAY      | `mbWay`       | <img src="paymentMethods/mbWay.svg" style="width: 86px; display: block;" />       | Portugal      |
-| Swish       | `swish`       | <img src="paymentMethods/swish.svg" style="width: 86px; display: block;" />       | Sweden        |
-| PostFinance | `postFinance` | <img src="paymentMethods/postFinance.svg" style="width: 86px; display: block;" /> | Switzerland   |
-| Afterpay    | `afterpay`    | <img src="paymentMethods/afterpay.svg" style="width: 86px; display: block;" />    | United States |
+| Name        | Key           | Preview                                                                           | Countries                |
+| ----------- | ------------- | --------------------------------------------------------------------------------- | ------------------------ |
+| Alipay      | `alipay`      | <img src="paymentMethods/alipay.svg" style="width: 86px; display: block;" />      | China                    |
+| WeChat Pay  | `weChatPay`   | <img src="paymentMethods/weChatPay.svg" style="width: 86px; display: block;" />   | China                    |
+| iDEAL       | `iDeal`       | <img src="paymentMethods/iDeal.svg" style="width: 86px; display: block;" />       | Netherlands              |
+| MobilePay   | `mobilePay`   | <img src="paymentMethods/mobilePay.svg" style="width: 86px; display: block;" />   | Denmark                  |
+| wero        | `wero`        | <img src="paymentMethods/wero.svg" style="width: 86px; display: block;" />        | Germany, France, Belgium |
+| Przelewy24  | `przelewy24`  | <img src="paymentMethods/przelewy24.svg" style="width: 86px; display: block;" />  | Poland                   |
+| Twint       | `twint`       | <img src="paymentMethods/twint.svg" style="width: 86px; display: block;" />       | Switzerland              |
+| Twisto      | `twisto`      | <img src="paymentMethods/twisto.svg" style="width: 86px; display: block;" />      | Czechia                  |
+| MB WAY      | `mbWay`       | <img src="paymentMethods/mbWay.svg" style="width: 86px; display: block;" />       | Portugal                 |
+| Swish       | `swish`       | <img src="paymentMethods/swish.svg" style="width: 86px; display: block;" />       | Sweden                   |
+| PostFinance | `postFinance` | <img src="paymentMethods/postFinance.svg" style="width: 86px; display: block;" /> | Switzerland              |
+| Afterpay    | `afterpay`    | <img src="paymentMethods/afterpay.svg" style="width: 86px; display: block;" />    | United States            |
 
 ### Other
 
